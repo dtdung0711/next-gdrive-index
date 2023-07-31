@@ -20,7 +20,7 @@ module.exports = {
     // Or use folder id to use a specific folder as starting point
     // TODO: Change when final
     // rootFolder: "root",
-    rootFolder: "1KgPV6QB1GYT8fmn2uTfbtr9rDXqcRR0j", // Test folder
+    rootFolder: "root", // Test folder
     // Limit breadcrumb to specific depth
     // 0 = Unlimited
     // 1 = Only show current folder
